@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 98,
     "timeDay": 86,
-    "timeWeek": 91,
+    "timeWeek": 92,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2511,
     "timeDay": 1929,
-    "timeWeek": 2479,
+    "timeWeek": 2494,
     "timeMonth": 2511,
     "timeYear": 2511,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://asis.moh.gov.my",
     "icon": "https://icons.duckduckgo.com/ip3/asis.moh.gov.my.ico",
     "slug": "asis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,10 +48,12 @@
     "uptimeYear": "100.00%",
     "time": 1685,
     "timeDay": 1325,
-    "timeWeek": 1677,
+    "timeWeek": 1648,
     "timeMonth": 1685,
     "timeYear": 1685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-20": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 327,
     "timeDay": 170,
-    "timeWeek": 333,
+    "timeWeek": 326,
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {}

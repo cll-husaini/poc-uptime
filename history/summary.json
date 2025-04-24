@@ -40,9 +40,9 @@
     "url": "https://asis.moh.gov.my",
     "icon": "https://icons.duckduckgo.com/ip3/asis.moh.gov.my.ico",
     "slug": "asis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1649,
     "timeMonth": 1687,
     "timeYear": 1687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "Hacker News",

@@ -43,7 +43,7 @@
     "url": "https://asis.moh.gov.my",
     "icon": "https://icons.duckduckgo.com/ip3/asis.moh.gov.my.ico",
     "slug": "asis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +55,7 @@
     "timeMonth": 1586,
     "timeYear": 1613,
     "dailyMinutesDown": {
+      "2025-05-16": 0,
       "2025-05-06": 47,
       "2025-04-24": 27
     }
@@ -72,7 +73,7 @@
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 438,
-    "timeWeek": 242,
+    "timeWeek": 263,
     "timeMonth": 301,
     "timeYear": 311,
     "dailyMinutesDown": {}
